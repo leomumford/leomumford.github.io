@@ -1,0 +1,49 @@
+/* body */
+body {
+	font-family: 'Alegreya Sans', sans-serif;
+	font-size: 22px;
+}
+
+/* headers */
+h1, h2, h3, h4, h5 {
+	text-align: center;
+}
+
+h2 {
+	font-size: 42px;
+}
+
+/* components */
+.jumbotron {
+	background-color: #552da4;
+	padding: 20px 0px;
+}
+
+/* header */
+header .jumbotron {
+	background-color: #552da4;
+	margin-bottom: 0px;
+}
+
+header div.container.narrow {
+	margin-bottom: 0px;
+	text-align: center;
+	color: white;
+}
+
+.container.narrow {
+	max-width: 760px;
+	margin: 0px auto 45px auto;
+}
+
+/* contents */
+
+.jumbotron.dark {
+	background-color: #252525;
+	color: white;
+}
+
+/* misc */
+iframe {
+	width: 100%;
+}

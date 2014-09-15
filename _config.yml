@@ -1,0 +1,27 @@
+# Home page text
+home:
+  title: "COMMERCIAL VIDEO PRODUCTION"
+  tagline: "Commercials designed to engage your audience"
+  button_text: "More Information"
+
+# About page text
+about: 
+  title: "LEO MUMFORD"
+  slogan: "Director, Cinematographer, Cameraman"
+
+##############################
+# DON'T EDIT BELOW THIS LINE #
+##############################
+
+# Site settings
+baseurl: ""
+url: "http://doyouknowmy.name"
+description: "site meta description"
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+# Gems
+gems:
+  - jekyll-sitemap

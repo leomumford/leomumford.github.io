@@ -1,0 +1,52 @@
+html, body {
+	height: 100%;
+	background-color: #000;
+	font-family: "Hoefler Text", Constantia, "Bitstream Charter", Palatino, "Palatino Linotype", serif;
+	padding: 0px;
+	margin: 0px;
+}
+
+/* big video */
+#big-video-vid, #big-video-vid_html5_api {
+	width: 100% !important;
+}
+
+/* title and button */
+#banner {
+	position: absolute;
+	top:50%; 
+	margin-top: -100px;
+	width: 100%;
+	display: block;
+	text-align: center;
+}
+
+#banner h1, h2 {
+	color: white;
+}
+
+#banner h1 {
+
+}
+
+#banner h2 {
+	font-weight: normal;
+}
+
+#banner div#button {
+	margin-top: 55px;
+}
+
+a {
+	display: inline-block;
+	margin-top: 10px;
+	padding: 20px;
+	
+	color: white;
+	border: 1px solid white;
+	text-decoration: none;
+	
+	-moz-border-radius: 10px; /* Firefox */  
+ 	-webkit-border-radius: 10px; /* Safari, Chrome */  
+ 	border-radius: 10px; /* CSS3 */  	
+}

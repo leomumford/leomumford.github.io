@@ -1,0 +1,30 @@
+#about {
+	width: 100%;
+	height: 100%;
+	position:absolute;
+}
+
+#about #content {
+	padding: 100px;
+	margin-left: 20%;
+
+	color: black;
+	background-image: url('../imgs/transparent-40.png');
+}
+
+#about #content #videos iframe {
+	display: block;
+	margin-bottom: 30px;
+}
+
+#about #content #text {
+	padding-left: 20px
+}
+
+#about #content #text .button {
+	background-color: black;
+}
+
+td {
+	vertical-align: top; 
+}
