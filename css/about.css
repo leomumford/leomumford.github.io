@@ -1,3 +1,8 @@
+.services {
+	margin-top: 35px;
+	margin-bottom: 50px;
+}
+
 #about {
 	width: 100%;
 	height: 100%;
@@ -27,4 +32,17 @@
 
 td {
 	vertical-align: top; 
+}
+
+.contact-icon {
+	width: 40px;
+	margin: 20px 0px;
+}
+
+.contact-one-line {
+	margin-top: 20px;
+}
+
+.contact-two-lines {
+	margin-top: 20px;
 }

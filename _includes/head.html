@@ -7,15 +7,18 @@
     <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
 
     <!-- CSS -->
-    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
+    <link rel="stylesheet" href="/css/bootstrap-3-2.css">
     <link rel="stylesheet" href="/css/core.css">
+
+    <!-- load page specific CSS from page front-matter -->
+    {% if page.css %}<link rel="stylesheet" href="/css/{{ page.css }}.css">{% endif %}
     
     <!-- fonts -->
     <link href='http://fonts.googleapis.com/css?family=Alegreya+Sans:100,400,700,100italic,400italic' rel='stylesheet' type='text/css'>
     <link href='http://fonts.googleapis.com/css?family=Droid+Sans:400,700' rel='stylesheet' type='text/css'>
 
     <!-- js -->
-    <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+    <script src="/js/bootstrap-3-2.js"></script>
 
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->

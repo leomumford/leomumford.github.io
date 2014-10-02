@@ -46,4 +46,5 @@ header div.container.narrow {
 /* misc */
 iframe {
 	width: 100%;
+	margin: 20px;
 }
