@@ -6,7 +6,8 @@ services: "Over 10 years in the film industry, directing, shooting and producing
 address_line_1: "336 Upper Shoreham Road,"
 address_line_2: "Shoreham By Sea, BN435QE, West Sussex"
 email: "leomumford@gmail.com"
-phone: "+44 (0) 7883 800 423"
+phone: +44 (0) 7883 800 423
+published: true
 ---
 
 ## Firebird Commercial
