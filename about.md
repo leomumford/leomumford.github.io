@@ -14,16 +14,16 @@ published: true
 
 <iframe width="640" height="360" src="//www.youtube.com/embed/urIVhdfz0TQ?rel=0" frameborder="0" allowfullscreen></iframe>
 
-A brief description of the firebird commercial project and some related information about the customer, and the challenges you faced.
+<!-- Replace this line with a description of the video -->
 
 ## TBC Commercial
 
 <iframe src="//player.vimeo.com/video/11959566" width="500" height="400" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="http://vimeo.com/11959566">TBC Commercial</a> from <a href="http://vimeo.com/leomumford">Leo Mumford</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
-A brief description of the TBC commercial project and some related information about the customer, and the challenges you faced.
+<!-- Replace this line with a description of the video -->
 
 ## Coffee Commercial
 
 <iframe src="//player.vimeo.com/video/11959968" width="500" height="375" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="http://vimeo.com/11959968">Coffee Commercial</a> from <a href="http://vimeo.com/leomumford">Leo Mumford</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
-A brief description of the Coffee commercial project and some related information about the customer, and the challenges you faced.
+<!-- Replace this line with a description of the video -->
