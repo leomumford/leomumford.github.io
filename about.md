@@ -2,9 +2,9 @@
 layout: about
 title: About Leo Mumford
 permalink: /about/
-services: "Over 10 years in the film industry, directing, shooting and producing commercials"
-address_line_1: "336 Upper Shoreham Road,"
-address_line_2: "Shoreham By Sea, BN435QE, West Sussex"
+services: "Over 10 years in the film industry, directing, shooting and producing commercials and narrative"
+address_line_1: "9 Buckingham Mews,"
+address_line_2: "Shoreham By Sea, BN43 6AJ, West Sussex"
 email: "leomumford@gmail.com"
 phone: +44 (0) 7883 800 423
 published: true
