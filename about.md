@@ -2,7 +2,7 @@
 layout: about
 title: About Leo Mumford
 permalink: /about/
-services: "Over 10 years in the film industry, directing, shooting and producing commercials and narrative"
+services: Over 10 years in the film industry
 address_line_1: "9 Buckingham Mews,"
 address_line_2: "Shoreham By Sea, BN43 6AJ, West Sussex"
 email: "leomumford@gmail.com"
