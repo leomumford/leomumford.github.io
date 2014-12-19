@@ -12,7 +12,7 @@ published: true
 
 ## Firebird Commercial
 
-<iframe width="640" height="360" src="//www.youtube.com/watch?v=KI32xlLZAZw" frameborder="0" allowfullscreen></iframe>
+<iframe width="640" height="360" src="http://youtu.be/KI32xlLZAZw" frameborder="0" allowfullscreen></iframe>
 
 <!-- Replace this line with a description of the video -->
 
